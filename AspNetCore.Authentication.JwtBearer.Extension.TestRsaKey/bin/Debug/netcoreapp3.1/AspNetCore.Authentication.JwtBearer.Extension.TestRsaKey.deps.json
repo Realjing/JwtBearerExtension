@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AspNetCore.Authentication.JwtBearer.Extension.TestRsaKey/1.0.0": {
+        "runtime": {
+          "AspNetCore.Authentication.JwtBearer.Extension.TestRsaKey.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspNetCore.Authentication.JwtBearer.Extension.TestRsaKey/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

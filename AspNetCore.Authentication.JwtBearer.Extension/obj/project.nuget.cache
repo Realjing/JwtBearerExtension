@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "P8woD4v5MaJtk61fuoSZqz0XdLgdgpXIo4ArCfFs4XZwlJgiBUMApE1sF/0oiK8VMuqnMHjCz9vjSQr6WbF4sg==",
+  "success": true,
+  "projectFilePath": "D:\\Developer\\vs_workspace\\自己的代码\\JwtBearerExtension\\AspNetCore.Authentication.JwtBearer.Extension\\AspNetCore.Authentication.JwtBearer.Extension.csproj",
+  "expectedPackageFiles": [
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

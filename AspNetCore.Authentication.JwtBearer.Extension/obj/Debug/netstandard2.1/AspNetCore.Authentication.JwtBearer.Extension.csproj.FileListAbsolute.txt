@@ -1,0 +1,17 @@
+D:\Developer\vs_workspace\自己的代码\github\NetCoreJwtRsaDemo\AspNetCore.Authentication.JwtBearer.Extension\bin\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.deps.json
+D:\Developer\vs_workspace\自己的代码\github\NetCoreJwtRsaDemo\AspNetCore.Authentication.JwtBearer.Extension\bin\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.dll
+D:\Developer\vs_workspace\自己的代码\github\NetCoreJwtRsaDemo\AspNetCore.Authentication.JwtBearer.Extension\bin\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.pdb
+D:\Developer\vs_workspace\自己的代码\github\NetCoreJwtRsaDemo\AspNetCore.Authentication.JwtBearer.Extension\obj\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.AssemblyInfoInputs.cache
+D:\Developer\vs_workspace\自己的代码\github\NetCoreJwtRsaDemo\AspNetCore.Authentication.JwtBearer.Extension\obj\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.AssemblyInfo.cs
+D:\Developer\vs_workspace\自己的代码\github\NetCoreJwtRsaDemo\AspNetCore.Authentication.JwtBearer.Extension\obj\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.csproj.CoreCompileInputs.cache
+D:\Developer\vs_workspace\自己的代码\github\NetCoreJwtRsaDemo\AspNetCore.Authentication.JwtBearer.Extension\obj\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.dll
+D:\Developer\vs_workspace\自己的代码\github\NetCoreJwtRsaDemo\AspNetCore.Authentication.JwtBearer.Extension\obj\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.pdb
+D:\Developer\vs_workspace\自己的代码\github\NetCoreJwtRsaDemo\AspNetCore.Authentication.JwtBearer.Extension\obj\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.csprojAssemblyReference.cache
+D:\Developer\vs_workspace\自己的代码\JwtBearerExtension\AspNetCore.Authentication.JwtBearer.Extension\bin\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.deps.json
+D:\Developer\vs_workspace\自己的代码\JwtBearerExtension\AspNetCore.Authentication.JwtBearer.Extension\bin\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.dll
+D:\Developer\vs_workspace\自己的代码\JwtBearerExtension\AspNetCore.Authentication.JwtBearer.Extension\bin\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.pdb
+D:\Developer\vs_workspace\自己的代码\JwtBearerExtension\AspNetCore.Authentication.JwtBearer.Extension\obj\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.AssemblyInfoInputs.cache
+D:\Developer\vs_workspace\自己的代码\JwtBearerExtension\AspNetCore.Authentication.JwtBearer.Extension\obj\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.AssemblyInfo.cs
+D:\Developer\vs_workspace\自己的代码\JwtBearerExtension\AspNetCore.Authentication.JwtBearer.Extension\obj\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.csproj.CoreCompileInputs.cache
+D:\Developer\vs_workspace\自己的代码\JwtBearerExtension\AspNetCore.Authentication.JwtBearer.Extension\obj\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.dll
+D:\Developer\vs_workspace\自己的代码\JwtBearerExtension\AspNetCore.Authentication.JwtBearer.Extension\obj\Debug\netstandard2.1\AspNetCore.Authentication.JwtBearer.Extension.pdb

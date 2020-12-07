@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6/S5vkCynCzNA6czsRgHLgGwmbfd9WUuGb/mBm6fV9+8wqys8AVHc91WbCggGgw91BEi/Az0RRt9S/nZh0tPw==",
+  "success": true,
+  "projectFilePath": "D:\\Developer\\vs_workspace\\自己的代码\\JwtBearerExtension\\AspNetCore.Authentication.JwtBearer.Extension.TestApi\\AspNetCore.Authentication.JwtBearer.Extension.TestApi.csproj",
+  "expectedPackageFiles": [
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\aspnetcore.authentication.jwtbearer.extension\\1.0.0\\aspnetcore.authentication.jwtbearer.extension.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
