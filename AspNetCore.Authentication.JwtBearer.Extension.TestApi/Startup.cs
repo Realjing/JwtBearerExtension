@@ -38,7 +38,7 @@ namespace AspNetCore.Authentication.JwtBearer.Extension.TestApi
             //    a.TokenValidationParameters = new TokenValidationParameters();
             //});
             services.Configure<JwtPolicyConfiguration>(Configuration.GetSection(nameof(JwtPolicyConfiguration)));
-            services.AddTransient<IPolicyAuthorizationHandler, JwtPolicyAuthorizationHandler>();
+            services.AddSingleton<IPolicyAuthorizationHandler, JwtPolicyAuthorizationHandler>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
